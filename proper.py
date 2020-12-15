@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Tue Dec 15 10:12:10 2020
-
 @author: ngarcia
 """
 
